@@ -1,11 +1,12 @@
 
 var keys = require("./keys.js");
 var axios = require("axios");
+var helper = require("./helper.js");
 
 
 function Concert(artistOrBandName) {
     this.artistOrBandName = artistOrBandName;
-    this.concertList = {};
+    this.concertList = [];
 
     this.getAPIURL = function () {
         return "https://rest.bandsintown.com/artists/" + this.artistOrBandName + "/events?app_id=" + keys.bandsintown.id;
@@ -16,18 +17,21 @@ function Concert(artistOrBandName) {
         console.log("Making a call: " + url + "\n");
 
         axios.get(url).then(function (response) {
+
             if (!(response.data.indexOf("warn") > 0)) {
                 this.concertList = new Array(response.data.length);
+                var recordToSave = "";
 
                 for (var i = 0; i < response.data.length; i++) {
                     var v = response.data[i];
 
                     var cv = new ConcertView(v.id, v.venue.name, v.venue.city, v.venue.region, v.venue.country, v.datetime);
                     console.log(cv.toString());
+                    recordToSave += cv.toString() + "\n";
                     this.concertList.push(cv);
                 }
 
-                //saveToFile(this.showDetails.getDetails());
+                new helper().saveTextToFile("concert-this " + artistOrBandName, recordToSave);
             } else {
                 console.log("Result Not found: " + response.data);
             }
