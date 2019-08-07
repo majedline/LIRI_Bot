@@ -13,22 +13,24 @@ function Concert(artistOrBandName) {
 
     this.getResults = function () {
         var url = this.getAPIURL();
-        console.log("Making a call: " + url);
+        console.log("Making a call: " + url + "\n");
 
         axios.get(url).then(function (response) {
-            // console.log(response.data);
-            this.concertList = new Array(response.data.length);
+            if (!(response.data.indexOf("warn") > 0)) {
+                this.concertList = new Array(response.data.length);
 
-            for (var i = 0; i < response.data.length; i++) {
-                // console.log(response.data[i].venue.name);
-                var v = response.data[i];
+                for (var i = 0; i < response.data.length; i++) {
+                    var v = response.data[i];
 
-                var cv = new ConcertView(v.id, v.venue.name, v.venue.city, v.venue.region, v.venue.country, v.datetime);
-                console.log(cv.toString());
-                this.concertList.push(cv);
+                    var cv = new ConcertView(v.id, v.venue.name, v.venue.city, v.venue.region, v.venue.country, v.datetime);
+                    console.log(cv.toString());
+                    this.concertList.push(cv);
+                }
+
+                //saveToFile(this.showDetails.getDetails());
+            } else {
+                console.log("Result Not found: " + response.data);
             }
-
-            //saveToFile(this.showDetails.getDetails());
 
         }).catch(function (error) {
             console.log(error);
@@ -47,9 +49,9 @@ function ConcertView(id, venue, locationCity, locationRegion, locationCountry, d
     this.date = date;
 
     this.toString = function () {
-        return "Event at Venue " + this.venue +
-            " at " + this.locationCity + ", " + this.locationRegion + ", " + this.locationCountry +
-            " on " + this.date;
+        return "Event at Venue \"" + this.venue +
+            "\" at " + this.locationCity + ", " + this.locationRegion + ", " + this.locationCountry +
+            " on (" + this.date + ")";
     }
 }
 
