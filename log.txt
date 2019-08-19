@@ -1,0 +1,183 @@
+
+======================== concert-this undefined ========================
+Event at Venue "Sweetwater Music Hall" at Mill Valley, CA, United States on (2019-08-10T13:00:00)
+Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+Event at Venue "Sweetwater Music Hall" at Mill Valley, CA, United States on (2019-08-10T13:00:00)
+Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+Event at Venue "Sweetwater Music Hall" at Mill Valley, CA, United States on (2019-08-10T13:00:00)
+Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+Event at Venue "Sweetwater Music Hall" at Mill Valley, CA, United States on (2019-08-10T13:00:00)
+Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+Event at Venue "Sweetwater Music Hall" at Mill Valley, CA, United States on (2019-08-10T13:00:00)
+Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+Event at Venue "Sweetwater Music Hall" at Mill Valley, CA, United States on (2019-08-10T13:00:00)
+Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+Event at Venue "Sweetwater Music Hall" at Mill Valley, CA, United States on (2019-08-10T13:00:00)
+Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+Event at Venue "Sweetwater Music Hall" at Mill Valley, CA, United States on (2019-08-10T13:00:00)
+Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+ ==> Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+ ==> Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+ ==> Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+ ==> Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+ ==> Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+ ==> Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+ ==> Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+ ==> Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+ ==> Event at Venue "Paloma Bar" at Berlin, , Germany on (2019-08-17T23:00:00)
+ ==> Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== spotify-this-song I kissed a girl ========================
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- (URL: https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl)
+ ==> Song: "I Kissed a Girl, and She Kissed Me" by Kid Bloom - Album: "A Different State of Mind" -- (URL: https://open.spotify.com/album/67vmBAu5bzXKL13wbYGfb7)
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- (URL: https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4)
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- (URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc)
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- (URL: https://open.spotify.com/album/6puf6DIqPoNJGxpr3oCR5s)
+ ==> Song: "I Kissed A Girl" by Punk Goes - Album: "Punk Goes Pop, Vol. 2" -- (URL: https://open.spotify.com/album/4WM9SjaD45ceIPV8eUloP8)
+ ==> Song: "I Kissed A Girl (Glee Cast Version)" by Glee Cast - Album: "I Kissed A Girl (Glee Cast Version)" -- (URL: https://open.spotify.com/album/4zcvX5vDUUSADJJY3mYNHt)
+ ==> Song: "I Kissed A Girl" by Scott Bradlee's Postmodern Jukebox - Album: "Swipe Right For Vintage" -- (URL: https://open.spotify.com/album/4kZggLkaCdeboIu94dn8KB)
+ ==> Song: "I Kissed A Girl - Rock Remix" by Katy Perry - Album: "One Of The Boys" -- (URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc)
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- (URL: https://open.spotify.com/album/0oL6dcMZUFGBaX1wxUS0x6)
+ ==> Song: "I Kissed a Girl" by Jill Sobule - Album: "Jill Sobule" -- (URL: https://open.spotify.com/album/552nKQnT0E6idUelJ2xDLO)
+ ==> Song: "I Kissed A Girl y Me Gusta" by Pomplamoose - Album: "I Kissed A Girl y Me Gusta" -- (URL: https://open.spotify.com/album/57bedoMwLnjQLeEBJMHeOZ)
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- (URL: https://open.spotify.com/album/4I0m4cCVE6jE6BEdXgoX3V)
+ ==> Song: "I Kissed A Girl - Live At MTV Unplugged, New York, NY/2009" by Katy Perry - Album: "Unplugged (Live At MTV Unplugged, New York, NY/2009)" -- (URL: https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG)
+ ==> Song: "I Kissed a Girl (Glee Cast Version)" by Glee Cast - Album: "Glee: The Music, 2009" -- (URL: https://open.spotify.com/album/3D6UxsvlxPs4cHg2rSxFCB)
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "Love Is Love" -- (URL: https://open.spotify.com/album/53iZdwLboDYCXk546ZG500)
+ ==> Song: "I Kissed a Girl - Metal Version" by Leo - Album: "Metal, Vol. 16" -- (URL: https://open.spotify.com/album/61ZBguCD1vq8NjoQY9rSPu)
+ ==> Song: "I Kissed A Girl" by Ben L'Oncle Soul - Album: "Soul Wash" -- (URL: https://open.spotify.com/album/23490WIxKC0t2PygVAwYhv)
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "2000's Prom Songs" -- (URL: https://open.spotify.com/album/6aBCwemLlQCo2ghF0gi1oe)
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl (3-Track)" -- (URL: https://open.spotify.com/album/4mSHPlhUjWDLsXRn0wIwIB)
+
+======================== concert-this jackson ========================
+ ==> Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== concert-this jackson ========================
+ ==> Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== spotify-this-song I kissed a girl ========================
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- (URL: https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl)
+ ==> Song: "I Kissed a Girl, and She Kissed Me" by Kid Bloom - Album: "A Different State of Mind" -- (URL: https://open.spotify.com/album/67vmBAu5bzXKL13wbYGfb7)
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- (URL: https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4)
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- (URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc)
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- (URL: https://open.spotify.com/album/6puf6DIqPoNJGxpr3oCR5s)
+ ==> Song: "I Kissed A Girl" by Punk Goes - Album: "Punk Goes Pop, Vol. 2" -- (URL: https://open.spotify.com/album/4WM9SjaD45ceIPV8eUloP8)
+ ==> Song: "I Kissed A Girl (Glee Cast Version)" by Glee Cast - Album: "I Kissed A Girl (Glee Cast Version)" -- (URL: https://open.spotify.com/album/4zcvX5vDUUSADJJY3mYNHt)
+ ==> Song: "I Kissed A Girl" by Scott Bradlee's Postmodern Jukebox - Album: "Swipe Right For Vintage" -- (URL: https://open.spotify.com/album/4kZggLkaCdeboIu94dn8KB)
+ ==> Song: "I Kissed A Girl - Rock Remix" by Katy Perry - Album: "One Of The Boys" -- (URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc)
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- (URL: https://open.spotify.com/album/0oL6dcMZUFGBaX1wxUS0x6)
+ ==> Song: "I Kissed a Girl" by Jill Sobule - Album: "Jill Sobule" -- (URL: https://open.spotify.com/album/552nKQnT0E6idUelJ2xDLO)
+ ==> Song: "I Kissed A Girl y Me Gusta" by Pomplamoose - Album: "I Kissed A Girl y Me Gusta" -- (URL: https://open.spotify.com/album/57bedoMwLnjQLeEBJMHeOZ)
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- (URL: https://open.spotify.com/album/4I0m4cCVE6jE6BEdXgoX3V)
+ ==> Song: "I Kissed A Girl - Live At MTV Unplugged, New York, NY/2009" by Katy Perry - Album: "Unplugged (Live At MTV Unplugged, New York, NY/2009)" -- (URL: https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG)
+ ==> Song: "I Kissed a Girl (Glee Cast Version)" by Glee Cast - Album: "Glee: The Music, 2009" -- (URL: https://open.spotify.com/album/3D6UxsvlxPs4cHg2rSxFCB)
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "Love Is Love" -- (URL: https://open.spotify.com/album/53iZdwLboDYCXk546ZG500)
+ ==> Song: "I Kissed a Girl - Metal Version" by Leo - Album: "Metal, Vol. 16" -- (URL: https://open.spotify.com/album/61ZBguCD1vq8NjoQY9rSPu)
+ ==> Song: "I Kissed A Girl" by Ben L'Oncle Soul - Album: "Soul Wash" -- (URL: https://open.spotify.com/album/23490WIxKC0t2PygVAwYhv)
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "2000's Prom Songs" -- (URL: https://open.spotify.com/album/6aBCwemLlQCo2ghF0gi1oe)
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl (3-Track)" -- (URL: https://open.spotify.com/album/4mSHPlhUjWDLsXRn0wIwIB)
+
+======================== spotify-this-song I kissed a girl ========================
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- URL: https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl
+ ==> Song: "I Kissed a Girl, and She Kissed Me" by Kid Bloom - Album: "A Different State of Mind" -- URL: https://open.spotify.com/album/67vmBAu5bzXKL13wbYGfb7
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- URL: https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- URL: https://open.spotify.com/album/6puf6DIqPoNJGxpr3oCR5s
+ ==> Song: "I Kissed A Girl" by Punk Goes - Album: "Punk Goes Pop, Vol. 2" -- URL: https://open.spotify.com/album/4WM9SjaD45ceIPV8eUloP8
+ ==> Song: "I Kissed A Girl (Glee Cast Version)" by Glee Cast - Album: "I Kissed A Girl (Glee Cast Version)" -- URL: https://open.spotify.com/album/4zcvX5vDUUSADJJY3mYNHt
+ ==> Song: "I Kissed A Girl" by Scott Bradlee's Postmodern Jukebox - Album: "Swipe Right For Vintage" -- URL: https://open.spotify.com/album/4kZggLkaCdeboIu94dn8KB
+ ==> Song: "I Kissed A Girl - Rock Remix" by Katy Perry - Album: "One Of The Boys" -- URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- URL: https://open.spotify.com/album/0oL6dcMZUFGBaX1wxUS0x6
+ ==> Song: "I Kissed a Girl" by Jill Sobule - Album: "Jill Sobule" -- URL: https://open.spotify.com/album/552nKQnT0E6idUelJ2xDLO
+ ==> Song: "I Kissed A Girl y Me Gusta" by Pomplamoose - Album: "I Kissed A Girl y Me Gusta" -- URL: https://open.spotify.com/album/57bedoMwLnjQLeEBJMHeOZ
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- URL: https://open.spotify.com/album/4I0m4cCVE6jE6BEdXgoX3V
+ ==> Song: "I Kissed A Girl - Live At MTV Unplugged, New York, NY/2009" by Katy Perry - Album: "Unplugged (Live At MTV Unplugged, New York, NY/2009)" -- URL: https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG
+ ==> Song: "I Kissed a Girl (Glee Cast Version)" by Glee Cast - Album: "Glee: The Music, 2009" -- URL: https://open.spotify.com/album/3D6UxsvlxPs4cHg2rSxFCB
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "Love Is Love" -- URL: https://open.spotify.com/album/53iZdwLboDYCXk546ZG500
+ ==> Song: "I Kissed a Girl - Metal Version" by Leo - Album: "Metal, Vol. 16" -- URL: https://open.spotify.com/album/61ZBguCD1vq8NjoQY9rSPu
+ ==> Song: "I Kissed A Girl" by Ben L'Oncle Soul - Album: "Soul Wash" -- URL: https://open.spotify.com/album/23490WIxKC0t2PygVAwYhv
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "2000's Prom Songs" -- URL: https://open.spotify.com/album/6aBCwemLlQCo2ghF0gi1oe
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl (3-Track)" -- URL: https://open.spotify.com/album/4mSHPlhUjWDLsXRn0wIwIB
+
+======================== spotify-this-song I kissed a girl ========================
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- URL: https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl
+ ==> Song: "I Kissed a Girl, and She Kissed Me" by Kid Bloom - Album: "A Different State of Mind" -- URL: https://open.spotify.com/album/67vmBAu5bzXKL13wbYGfb7
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- URL: https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- URL: https://open.spotify.com/album/6puf6DIqPoNJGxpr3oCR5s
+ ==> Song: "I Kissed A Girl" by Punk Goes - Album: "Punk Goes Pop, Vol. 2" -- URL: https://open.spotify.com/album/4WM9SjaD45ceIPV8eUloP8
+ ==> Song: "I Kissed A Girl (Glee Cast Version)" by Glee Cast - Album: "I Kissed A Girl (Glee Cast Version)" -- URL: https://open.spotify.com/album/4zcvX5vDUUSADJJY3mYNHt
+ ==> Song: "I Kissed A Girl" by Scott Bradlee's Postmodern Jukebox - Album: "Swipe Right For Vintage" -- URL: https://open.spotify.com/album/4kZggLkaCdeboIu94dn8KB
+ ==> Song: "I Kissed A Girl - Rock Remix" by Katy Perry - Album: "One Of The Boys" -- URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- URL: https://open.spotify.com/album/0oL6dcMZUFGBaX1wxUS0x6
+ ==> Song: "I Kissed a Girl" by Jill Sobule - Album: "Jill Sobule" -- URL: https://open.spotify.com/album/552nKQnT0E6idUelJ2xDLO
+ ==> Song: "I Kissed A Girl y Me Gusta" by Pomplamoose - Album: "I Kissed A Girl y Me Gusta" -- URL: https://open.spotify.com/album/57bedoMwLnjQLeEBJMHeOZ
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- URL: https://open.spotify.com/album/4I0m4cCVE6jE6BEdXgoX3V
+ ==> Song: "I Kissed A Girl - Live At MTV Unplugged, New York, NY/2009" by Katy Perry - Album: "Unplugged (Live At MTV Unplugged, New York, NY/2009)" -- URL: https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG
+ ==> Song: "I Kissed a Girl (Glee Cast Version)" by Glee Cast - Album: "Glee: The Music, 2009" -- URL: https://open.spotify.com/album/3D6UxsvlxPs4cHg2rSxFCB
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "Love Is Love" -- URL: https://open.spotify.com/album/53iZdwLboDYCXk546ZG500
+ ==> Song: "I Kissed a Girl - Metal Version" by Leo - Album: "Metal, Vol. 16" -- URL: https://open.spotify.com/album/61ZBguCD1vq8NjoQY9rSPu
+ ==> Song: "I Kissed A Girl" by Ben L'Oncle Soul - Album: "Soul Wash" -- URL: https://open.spotify.com/album/23490WIxKC0t2PygVAwYhv
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "2000's Prom Songs" -- URL: https://open.spotify.com/album/6aBCwemLlQCo2ghF0gi1oe
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl (3-Track)" -- URL: https://open.spotify.com/album/4mSHPlhUjWDLsXRn0wIwIB
+
+======================== concert-this jackson ========================
+ ==> Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:00)
+
+======================== spotify-this-song I kissed a girl ========================
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- URL: https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl
+ ==> Song: "I Kissed a Girl, and She Kissed Me" by Kid Bloom - Album: "A Different State of Mind" -- URL: https://open.spotify.com/album/67vmBAu5bzXKL13wbYGfb7
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- URL: https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "One Of The Boys" -- URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- URL: https://open.spotify.com/album/6puf6DIqPoNJGxpr3oCR5s
+ ==> Song: "I Kissed A Girl" by Punk Goes - Album: "Punk Goes Pop, Vol. 2" -- URL: https://open.spotify.com/album/4WM9SjaD45ceIPV8eUloP8
+ ==> Song: "I Kissed A Girl (Glee Cast Version)" by Glee Cast - Album: "I Kissed A Girl (Glee Cast Version)" -- URL: https://open.spotify.com/album/4zcvX5vDUUSADJJY3mYNHt
+ ==> Song: "I Kissed A Girl" by Scott Bradlee's Postmodern Jukebox - Album: "Swipe Right For Vintage" -- URL: https://open.spotify.com/album/4kZggLkaCdeboIu94dn8KB
+ ==> Song: "I Kissed A Girl - Rock Remix" by Katy Perry - Album: "One Of The Boys" -- URL: https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc
+ ==> Song: "I Kissed A Girl" by William Fitzsimmons - Album: "Derivatives" -- URL: https://open.spotify.com/album/0oL6dcMZUFGBaX1wxUS0x6
+ ==> Song: "I Kissed a Girl" by Jill Sobule - Album: "Jill Sobule" -- URL: https://open.spotify.com/album/552nKQnT0E6idUelJ2xDLO
+ ==> Song: "I Kissed A Girl y Me Gusta" by Pomplamoose - Album: "I Kissed A Girl y Me Gusta" -- URL: https://open.spotify.com/album/57bedoMwLnjQLeEBJMHeOZ
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl" -- URL: https://open.spotify.com/album/4I0m4cCVE6jE6BEdXgoX3V
+ ==> Song: "I Kissed A Girl - Live At MTV Unplugged, New York, NY/2009" by Katy Perry - Album: "Unplugged (Live At MTV Unplugged, New York, NY/2009)" -- URL: https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG
+ ==> Song: "I Kissed a Girl (Glee Cast Version)" by Glee Cast - Album: "Glee: The Music, 2009" -- URL: https://open.spotify.com/album/3D6UxsvlxPs4cHg2rSxFCB
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "Love Is Love" -- URL: https://open.spotify.com/album/53iZdwLboDYCXk546ZG500
+ ==> Song: "I Kissed a Girl - Metal Version" by Leo - Album: "Metal, Vol. 16" -- URL: https://open.spotify.com/album/61ZBguCD1vq8NjoQY9rSPu
+ ==> Song: "I Kissed A Girl" by Ben L'Oncle Soul - Album: "Soul Wash" -- URL: https://open.spotify.com/album/23490WIxKC0t2PygVAwYhv
+ ==> Song: "I Kissed A Girl" by Various Artists - Album: "2000's Prom Songs" -- URL: https://open.spotify.com/album/6aBCwemLlQCo2ghF0gi1oe
+ ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl (3-Track)" -- URL: https://open.spotify.com/album/4mSHPlhUjWDLsXRn0wIwIB

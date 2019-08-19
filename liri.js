@@ -1,7 +1,7 @@
-//require("dotenv").config();
+require("dotenv").config();
 var keys = require("./keys.js");
 var Concert = require("./Concert.js"); 
-// var spotify = new Spotify(keys.spotify);
+var Spotify = require("./SpotifyLiri.js");
 
 var rawInput = process.argv;
 
@@ -27,11 +27,14 @@ function run() {
             console.log(command + " " + input);
             var c = new Concert(input);
             c.getResults();
-
             break;
+
         case "spotify-this-song":
             console.log(command + " " + input);
+            var s = new Spotify(input);
+            s.getResults();
             break;
+            
         case "movie-this":
             console.log(command + " " + input);
             break;

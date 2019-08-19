@@ -9,7 +9,7 @@ function Helper() {
 
         fs.appendFile(this.fileName, divider + text, function (error) {
             if (error) throw err;
-            console.log('Saved!');
+            console.log('\nRecords Saved in logs!\n****************************\n');
         });
     }
 
@@ -23,7 +23,7 @@ function Helper() {
 
         fs.appendFile(this.fileName, divider + x, function (error) {
             if (error) throw err;
-            console.log('Saved!');
+            console.log('\nRecords Saved in logs!\n****************************\n');
         });
     }
 

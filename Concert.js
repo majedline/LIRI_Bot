@@ -1,10 +1,10 @@
 
 var keys = require("./keys.js");
 var axios = require("axios");
-var helper = require("./helper.js");
+var Helper = require("./helper.js");
 
 
-function Concert(artistOrBandName) {
+function ConcertController(artistOrBandName) {
     this.artistOrBandName = artistOrBandName;
     this.concertList = [];
 
@@ -25,13 +25,18 @@ function Concert(artistOrBandName) {
                 for (var i = 0; i < response.data.length; i++) {
                     var v = response.data[i];
 
-                    var cv = new ConcertView(v.id, v.venue.name, v.venue.city, v.venue.region, v.venue.country, v.datetime);
+                    var cv = new ConcertModel(v.id, v.venue.name, v.venue.city, v.venue.region, v.venue.country, v.datetime);
                     console.log(cv.toString());
                     recordToSave += cv.toString() + "\n";
                     this.concertList.push(cv);
                 }
 
-                new helper().saveTextToFile("concert-this " + artistOrBandName, recordToSave);
+                if (this.concertList.length > 0) {
+                    new Helper().saveTextToFile("concert-this " + artistOrBandName, recordToSave);
+                } else{
+                    console.log("No record found.");
+                }
+
             } else {
                 console.log("Result Not found: " + response.data);
             }
@@ -44,7 +49,7 @@ function Concert(artistOrBandName) {
 }
 
 
-function ConcertView(id, venue, locationCity, locationRegion, locationCountry, date) {
+function ConcertModel(id, venue, locationCity, locationRegion, locationCountry, date) {
     this.id = id;
     this.venue = venue;
     this.locationCity = locationCity;
@@ -53,10 +58,10 @@ function ConcertView(id, venue, locationCity, locationRegion, locationCountry, d
     this.date = date;
 
     this.toString = function () {
-        return "Event at Venue \"" + this.venue +
+        return " ==> Event at Venue \"" + this.venue +
             "\" at " + this.locationCity + ", " + this.locationRegion + ", " + this.locationCountry +
             " on (" + this.date + ")";
     }
 }
 
-module.exports = Concert;
+module.exports = ConcertController;
