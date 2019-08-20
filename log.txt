@@ -181,3 +181,155 @@ Event at Venue "Jamboree Jazz Club" at Barcelona, , Spain on (2019-08-21T18:00:0
  ==> Song: "I Kissed A Girl" by Ben L'Oncle Soul - Album: "Soul Wash" -- URL: https://open.spotify.com/album/23490WIxKC0t2PygVAwYhv
  ==> Song: "I Kissed A Girl" by Various Artists - Album: "2000's Prom Songs" -- URL: https://open.spotify.com/album/6aBCwemLlQCo2ghF0gi1oe
  ==> Song: "I Kissed A Girl" by Katy Perry - Album: "I Kissed A Girl (3-Track)" -- URL: https://open.spotify.com/album/4mSHPlhUjWDLsXRn0wIwIB
+
+======================== movie-this undefined ========================
+ ==> Movie: undefined
+ ==> OMDB rated PG | Rotten Tomatoes Rating: 15%
+ ==> Produced in USA made in the English language
+ ==> Plot: Jon Arbuckle buys a second pet, a dog named Odie. However, Odie is then abducted and it is up to Jon's cat, Garfield, to find and rescue the canine.
+ ==> Actors: Breckin Meyer, Jennifer Love Hewitt, Stephen Tobolowsky, Bill Murray
+******************************************
+======================== movie-this undefined ========================
+ ==> Movie: undefined
+ ==> OMDB rated PG-13 | Rotten Tomatoes Rating: 84%
+ ==> Produced in New Zealand, USA, Germany made in the English language
+ ==> Plot: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
+ ==> Actors: Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann
+******************************************
+======================== movie-this undefined ========================
+ ==> Movie: undefined
+ ==> OMDB rated PG-13 | Rotten Tomatoes Rating: 84%
+ ==> Produced in New Zealand, USA, Germany made in the English language
+ ==> Plot: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
+ ==> Actors: Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann
+******************************************
+======================== movie-this undefined ========================
+ ==> Movie: undefined
+ ==> OMDB rated PG-13 | Rotten Tomatoes Rating: 84%
+ ==> Produced in New Zealand, USA, Germany made in the English language
+ ==> Plot: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
+ ==> Actors: Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann
+******************************************
+======================== movie-this undefined ========================
+ ==> Movie: undefined
+ ==> OMDB rated R | Rotten Tomatoes Rating: 67%
+ ==> Produced in Belgium, Germany, Canada, France, USA, UK made in the English, Mohawk language
+ ==> Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ ==> Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+******************************************
+======================== movie-this undefined ========================
+ ==> Movie: undefined
+ ==> OMDB rated R | Rotten Tomatoes Rating: 67%
+ ==> Produced in Belgium, Germany, Canada, France, USA, UK made in the English, Mohawk language
+ ==> Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ ==> Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+******************************************
+======================== movie-this undefined ========================
+ ==> Movie: undefined
+ ==> OMDB rated R | Rotten Tomatoes Rating: 67%
+ ==> Produced in Belgium, Germany, Canada, France, USA, UK made in the English, Mohawk language
+ ==> Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ ==> Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+******************************************
+======================== movie-this undefined ========================
+ ==> Movie: undefined
+ ==> OMDB rated PG-13 | Rotten Tomatoes Rating: 84%
+ ==> Produced in New Zealand, USA, Germany made in the English language
+ ==> Plot: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
+ ==> Actors: Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann
+******************************************
+======================== spotify-this-song The Sign ========================
+ ==> Song: "Hottest In The City" by Ty Dolla $ign - Album: "Hottest In The City" -- URL: https://open.spotify.com/album/7nP87PXdPv4oPYKWRc5x1z
+ ==> Song: "Hottest In The City" by Ty Dolla $ign - Album: "Hottest In The City" -- URL: https://open.spotify.com/album/3tEp84xDlBZ8uvhZdBHOII
+ ==> Song: "Sign of the Times" by Harry Styles - Album: "Harry Styles" -- URL: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+ ==> Song: "Scared of the Dark (feat. XXXTENTACION)" by Various Artists - Album: "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)" -- URL: https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs
+ ==> Song: "The Sign" by Ace of Base - Album: "The Sign (US Album) [Remastered]" -- URL: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+ ==> Song: "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix" by Ty Dolla $ign - Album: "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]" -- URL: https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK
+ ==> Song: "Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)" by Dreamville - Album: "Revenge Of The Dreamers III" -- URL: https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI
+ ==> Song: "Impatient" by Jeremih - Album: "Late Nights: The Album" -- URL: https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96
+ ==> Song: "Sign of the Times" by Harry Styles - Album: "Sign of the Times" -- URL: https://open.spotify.com/album/6YDkzHVTEzMXZOVd1r5NqR
+ ==> Song: "Way Back Home (feat. Ty Dolla $ign)" by YBN Cordae - Album: "The Lost Boy" -- URL: https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu
+ ==> Song: "Cinderella (feat. Ty Dolla $ign)" by Mac Miller - Album: "The Divine Feminine" -- URL: https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ
+ ==> Song: "The Light" by MihTy - Album: "The Light" -- URL: https://open.spotify.com/album/2dPMOEn0BkN8qpGVuuA3GT
+ ==> Song: "Love U Better (feat. Lil Wayne & The-Dream)" by Ty Dolla $ign - Album: "Beach House 3" -- URL: https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW
+ ==> Song: "Do You Mean" by The Chainsmokers - Album: "World War Joy...Takeaway" -- URL: https://open.spotify.com/album/1JawI0XkEwmQ5Bwef3RMbq
+ ==> Song: "Movin’ Up" by Quality Control - Album: "Quality Control: Control The Streets Volume 1" -- URL: https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ
+ ==> Song: "Woah (feat. Miguel & Ty Dolla $ign)" by Rich The Kid - Album: "The World Is Yours 2" -- URL: https://open.spotify.com/album/6GDXnx6AUDGH0tpxXQX0Kn
+ ==> Song: "The Light" by MihTy - Album: "MIH-TY" -- URL: https://open.spotify.com/album/16rRmI5wxWWO5dnRWUKCPA
+ ==> Song: "Lights Out (feat. Ty Dolla $ign & Rich The Kid)" by Ronny J - Album: "Lights Out (feat. Ty Dolla $ign & Rich The Kid)" -- URL: https://open.spotify.com/album/3FDZv1RmmwJoKnwhWaoQ7J
+ ==> Song: "All That She Wants" by Ace of Base - Album: "The Sign (US Album) [Remastered]" -- URL: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+ ==> Song: "Droptop in the Rain (feat. Tory Lanez)" by Ty Dolla $ign - Album: "Beach House 3" -- URL: https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW
+
+======================== spotify-this-song  "I Want it That Way" ========================
+ ==> Song: "I Want It That Way" by Backstreet Boys - Album: "The Hits--Chapter One" -- URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+ ==> Song: "I Want It That Way" by Backstreet Boys - Album: "Millennium" -- URL: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+ ==> Song: "I Want It That Way" by Mick Jensen - Album: "I Want It That Way" -- URL: https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
+ ==> Song: "I Want It That Way" by Anthem Lights - Album: "Covers Part IV" -- URL: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+ ==> Song: "I Want It That Way - Reimagined" by Backstreet Boys - Album: "I Want It That Way (Reimagined)" -- URL: https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV
+ ==> Song: "Ebay (Parody of "I Want It That Way" by the Backstreet Boys)" by "Weird Al" Yankovic - Album: "Poodle Hat" -- URL: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+ ==> Song: "I Want It That Way" by Jess and Gabriel - Album: "Under the Covers, Vol. 3" -- URL: https://open.spotify.com/album/7agg8FsuWoGF4eVvzEYHbB
+ ==> Song: "I Want It That Way" by Punk Goes - Album: "Punk Goes Pop" -- URL: https://open.spotify.com/album/5EoRtzlbNHpz4ZHR4rEmwD
+ ==> Song: "I Want It That Way" by Various Artists - Album: "90 Sweet 90s Hits!" -- URL: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+ ==> Song: "I Want It That Way" by Steel Panther - Album: "I Want It That Way" -- URL: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+ ==> Song: "Bye Bye Bye / I Want It That Way (Glee Cast Version)" by Glee Cast - Album: "Bye Bye Bye / I Want It That Way (Glee Cast Version)" -- URL: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+ ==> Song: "I Want It That Way" by NKOTBSB - Album: "NKOTBSB" -- URL: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+ ==> Song: "I Want It That Way" by Boyce Avenue - Album: "Cover Sessions, Vol. 2" -- URL: https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz
+ ==> Song: "I Want It That Way" by Scary Pockets - Album: "Nu Funk" -- URL: https://open.spotify.com/album/5RUgGybyrfKUKE5hBTKLum
+ ==> Song: "I Want It That Way" by Manuel Costa - Album: "I Want It That Way" -- URL: https://open.spotify.com/album/5OTVQJeg9hddMiZOnjMS4S
+ ==> Song: "I Want It That Way" by Scott Bradlee's Postmodern Jukebox - Album: "Selfies on Kodachrome" -- URL: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+ ==> Song: "Ebay (Parody of "I Want It That Way" by the Backstreet Boys)" by "Weird Al" Yankovic - Album: "The Essential "Weird Al" Yankovic" -- URL: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+ ==> Song: "I Want It That Way" by Yshop - Album: "I Want It That Way" -- URL: https://open.spotify.com/album/0dkPR4h6LEM3h8xCWiNpQJ
+ ==> Song: "I Want It That Way" by Various Artists - Album: "NOW That's What I Call 90s Pop" -- URL: https://open.spotify.com/album/4VyzyexBobu0w5hS3Bcmrg
+ ==> Song: "I Want It That Way" by #90s Update - Album: "#90s Update" -- URL: https://open.spotify.com/album/58NjaJdMt512amLTyVRKpe
+
+======================== spotify-this-song  "I Want it That Way" ========================
+ ==> Song: "I Want It That Way" by Backstreet Boys - Album: "The Hits--Chapter One" -- URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+ ==> Song: "I Want It That Way" by Backstreet Boys - Album: "Millennium" -- URL: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+ ==> Song: "I Want It That Way" by Mick Jensen - Album: "I Want It That Way" -- URL: https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
+ ==> Song: "I Want It That Way" by Anthem Lights - Album: "Covers Part IV" -- URL: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+ ==> Song: "I Want It That Way - Reimagined" by Backstreet Boys - Album: "I Want It That Way (Reimagined)" -- URL: https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV
+ ==> Song: "Ebay (Parody of "I Want It That Way" by the Backstreet Boys)" by "Weird Al" Yankovic - Album: "Poodle Hat" -- URL: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+ ==> Song: "I Want It That Way" by Jess and Gabriel - Album: "Under the Covers, Vol. 3" -- URL: https://open.spotify.com/album/7agg8FsuWoGF4eVvzEYHbB
+ ==> Song: "I Want It That Way" by Punk Goes - Album: "Punk Goes Pop" -- URL: https://open.spotify.com/album/5EoRtzlbNHpz4ZHR4rEmwD
+ ==> Song: "I Want It That Way" by Various Artists - Album: "90 Sweet 90s Hits!" -- URL: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+ ==> Song: "I Want It That Way" by Steel Panther - Album: "I Want It That Way" -- URL: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+ ==> Song: "Bye Bye Bye / I Want It That Way (Glee Cast Version)" by Glee Cast - Album: "Bye Bye Bye / I Want It That Way (Glee Cast Version)" -- URL: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+ ==> Song: "I Want It That Way" by NKOTBSB - Album: "NKOTBSB" -- URL: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+ ==> Song: "I Want It That Way" by Boyce Avenue - Album: "Cover Sessions, Vol. 2" -- URL: https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz
+ ==> Song: "I Want It That Way" by Scary Pockets - Album: "Nu Funk" -- URL: https://open.spotify.com/album/5RUgGybyrfKUKE5hBTKLum
+ ==> Song: "I Want It That Way" by Manuel Costa - Album: "I Want It That Way" -- URL: https://open.spotify.com/album/5OTVQJeg9hddMiZOnjMS4S
+ ==> Song: "I Want It That Way" by Scott Bradlee's Postmodern Jukebox - Album: "Selfies on Kodachrome" -- URL: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+ ==> Song: "Ebay (Parody of "I Want It That Way" by the Backstreet Boys)" by "Weird Al" Yankovic - Album: "The Essential "Weird Al" Yankovic" -- URL: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+ ==> Song: "I Want It That Way" by Yshop - Album: "I Want It That Way" -- URL: https://open.spotify.com/album/0dkPR4h6LEM3h8xCWiNpQJ
+ ==> Song: "I Want It That Way" by Various Artists - Album: "NOW That's What I Call 90s Pop" -- URL: https://open.spotify.com/album/4VyzyexBobu0w5hS3Bcmrg
+ ==> Song: "I Want It That Way" by #90s Update - Album: "#90s Update" -- URL: https://open.spotify.com/album/58NjaJdMt512amLTyVRKpe
+
+======================== spotify-this-song The Sign ========================
+ ==> Song: "Hottest In The City" by Ty Dolla $ign - Album: "Hottest In The City" -- URL: https://open.spotify.com/album/7nP87PXdPv4oPYKWRc5x1z
+ ==> Song: "Hottest In The City" by Ty Dolla $ign - Album: "Hottest In The City" -- URL: https://open.spotify.com/album/3tEp84xDlBZ8uvhZdBHOII
+ ==> Song: "Sign of the Times" by Harry Styles - Album: "Harry Styles" -- URL: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+ ==> Song: "Scared of the Dark (feat. XXXTENTACION)" by Various Artists - Album: "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)" -- URL: https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs
+ ==> Song: "The Sign" by Ace of Base - Album: "The Sign (US Album) [Remastered]" -- URL: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+ ==> Song: "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix" by Ty Dolla $ign - Album: "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]" -- URL: https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK
+ ==> Song: "Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)" by Dreamville - Album: "Revenge Of The Dreamers III" -- URL: https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI
+ ==> Song: "Impatient" by Jeremih - Album: "Late Nights: The Album" -- URL: https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96
+ ==> Song: "Sign of the Times" by Harry Styles - Album: "Sign of the Times" -- URL: https://open.spotify.com/album/6YDkzHVTEzMXZOVd1r5NqR
+ ==> Song: "Way Back Home (feat. Ty Dolla $ign)" by YBN Cordae - Album: "The Lost Boy" -- URL: https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu
+ ==> Song: "Cinderella (feat. Ty Dolla $ign)" by Mac Miller - Album: "The Divine Feminine" -- URL: https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ
+ ==> Song: "The Light" by MihTy - Album: "The Light" -- URL: https://open.spotify.com/album/2dPMOEn0BkN8qpGVuuA3GT
+ ==> Song: "Love U Better (feat. Lil Wayne & The-Dream)" by Ty Dolla $ign - Album: "Beach House 3" -- URL: https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW
+ ==> Song: "Do You Mean" by The Chainsmokers - Album: "World War Joy...Takeaway" -- URL: https://open.spotify.com/album/1JawI0XkEwmQ5Bwef3RMbq
+ ==> Song: "Movin’ Up" by Quality Control - Album: "Quality Control: Control The Streets Volume 1" -- URL: https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ
+ ==> Song: "Woah (feat. Miguel & Ty Dolla $ign)" by Rich The Kid - Album: "The World Is Yours 2" -- URL: https://open.spotify.com/album/6GDXnx6AUDGH0tpxXQX0Kn
+ ==> Song: "The Light" by MihTy - Album: "MIH-TY" -- URL: https://open.spotify.com/album/16rRmI5wxWWO5dnRWUKCPA
+ ==> Song: "Lights Out (feat. Ty Dolla $ign & Rich The Kid)" by Ronny J - Album: "Lights Out (feat. Ty Dolla $ign & Rich The Kid)" -- URL: https://open.spotify.com/album/3FDZv1RmmwJoKnwhWaoQ7J
+ ==> Song: "All That She Wants" by Ace of Base - Album: "The Sign (US Album) [Remastered]" -- URL: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+ ==> Song: "Droptop in the Rain (feat. Tory Lanez)" by Ty Dolla $ign - Album: "Beach House 3" -- URL: https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW
+
+======================== movie-this undefined ========================
+ ==> Movie: undefined
+ ==> OMDB rated PG-13 | Rotten Tomatoes Rating: 84%
+ ==> Produced in New Zealand, USA, Germany made in the English language
+ ==> Plot: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
+ ==> Actors: Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann
+******************************************

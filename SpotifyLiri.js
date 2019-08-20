@@ -13,8 +13,6 @@ function SpotifyController(songName) {
             secret: keys.spotify.secret
         });
 
-        console.log(spotify);
-
         spotify.search({ type: 'track', query: this.songName }) //'All the Small Things'
             .then(function (response) {
                 var items = response.tracks.items;

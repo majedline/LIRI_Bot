@@ -8,3 +8,7 @@ exports.spotify = {
 exports.bandsintown = {
   id: "codingbootcamp"
 };
+
+exports.omdb = {
+  id: process.env.OMDB_KEY
+};

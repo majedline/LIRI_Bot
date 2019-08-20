@@ -1,7 +1,10 @@
 require("dotenv").config();
 var keys = require("./keys.js");
-var Concert = require("./Concert.js"); 
+var Concert = require("./Concert.js");
 var Spotify = require("./SpotifyLiri.js");
+var Omdb = require("./OmdbLiri.js");
+var fs = require('fs');
+
 
 var rawInput = process.argv;
 
@@ -18,29 +21,56 @@ function getInput() {
 }
 
 function run() {
-
     var command = getCommand();
     var input = getInput();
 
+    callService(command, input);
+}
+
+function callService(command, input) {
+    console.log(command + " " + input);
+
     switch (command) {
         case "concert-this":
-            console.log(command + " " + input);
             var c = new Concert(input);
             c.getResults();
             break;
 
         case "spotify-this-song":
-            console.log(command + " " + input);
+            if (input == null) {
+                input = "The Sign";
+
+            } else if (input.trim().length == 0) {
+                input = "The Sign";
+            }
+
             var s = new Spotify(input);
             s.getResults();
             break;
-            
+
         case "movie-this":
-            console.log(command + " " + input);
+            if (input == null) {
+                input = "Mr. Nobody";
+            } else if (input.trim().length == 0) {
+                input = "Mr. Nobody";
+            }
+
+            var o = new Omdb(input);
+            o.getResults();
             break;
+
         case "do-what-it-says":
-            console.log(command + " " + input);
+            fs.readFile('./random.txt', "utf8", function read(err, data) {
+                if (err) {
+                    throw err;
+                }
+                splitData = data.split(",");
+                callService(splitData[0], splitData[1]);
+            });
+
+
             break;
+
         default:
             console.log(command + " is not a valid command. The following are allowed:");
             console.log(
@@ -51,6 +81,5 @@ function run() {
     }
 
 }
-
 
 run();
